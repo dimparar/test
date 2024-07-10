@@ -10,5 +10,8 @@ updates:
     schedule:
       interval: "weekly"
     commit-message:
-      prefix: "ci: "
-    
+      prefix: "ci:"
+    groups:
+      python-packages:
+        patterns:
+          - "*"
