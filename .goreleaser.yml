@@ -100,8 +100,6 @@ archives:
       group: root
       owner: root
     files:
-      - README.md
-      - LICENSE.md
 
 release:
   github:
